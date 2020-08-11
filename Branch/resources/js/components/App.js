@@ -123,7 +123,7 @@ function App() {
                             </button>
                         </div>
                         <div class="modal-body">
-                            <span>Hemos guardado tus datos con exito</span>
+                            <span>Tu información ha sido recibida satisfactoriamente</span>
                         </div>
                         <div class="modal-footer">
                             <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
