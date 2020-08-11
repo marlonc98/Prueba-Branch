@@ -1,0 +1,36 @@
+.centeredContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+.image{
+    width: 100%;
+}
+.containerForm{
+    max-width: 400px;
+    box-shadow: 2px 1px 22px 0px #dedede;
+    border-radius: 25px;
+    padding: 2em;
+}
+.form-group label{
+    font-weight: bold;
+    margin-top: 20px;
+}
+.buttonSubmit{
+    background-color: #e03b65;
+    color: white;
+    padding: 0.5em 2em;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;    
+}
+.was-validated select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+.invalid-feedback{
+    text-align: left;
+}
